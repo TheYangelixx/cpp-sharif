@@ -51,7 +51,7 @@ int main() {
 
  1 byte = 8 bit
  حجم هر کدوم؟
- char --> 8 byte
+ char --> 8 bits
  long int --> 8byte
  */
 

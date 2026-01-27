@@ -1,0 +1,3 @@
+C:/Users/ECA 09338368732/CLionProjects/struct/cmake-build-debug/CMakeFiles/struct.dir
+C:/Users/ECA 09338368732/CLionProjects/struct/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ECA 09338368732/CLionProjects/struct/cmake-build-debug/CMakeFiles/rebuild_cache.dir

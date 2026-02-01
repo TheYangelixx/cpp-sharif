@@ -1,3 +1,0 @@
-C:/Users/ECA 09338368732/Downloads/14040820/14040820/cmake-build-debug/CMakeFiles/14040820.dir
-C:/Users/ECA 09338368732/Downloads/14040820/14040820/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ECA 09338368732/Downloads/14040820/14040820/cmake-build-debug/CMakeFiles/rebuild_cache.dir
